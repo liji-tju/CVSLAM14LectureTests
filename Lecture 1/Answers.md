@@ -8,5 +8,5 @@
 若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=\chi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi" title="\chi" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为：  
 <a href="https://www.codecogs.com/eqnedit.php?latex=X$\sim$N(\mu,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X$\sim$N(\mu,\sigma^2)" title="X$\sim$N(\mu,\sigma^2)" /></a>  
 则其概率密度函数为：  
-<a href="https://www.codecogs.com/eqnedit.php?latex=f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" title="f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" /></a>/  
+<center><a href="https://www.codecogs.com/eqnedit.php?latex=f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" title="f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" /></a></center>  
 
