@@ -5,7 +5,7 @@
 #### 2
 高斯分布，又称正态分布，其概念最早由德国的数学家和天文学家Abraham de Moivre于1733年首次提出的，但由于德国数学家Gauss率先将其应用于天文学研究，故正态分布又叫高斯分布。  
 一维形式：  
-若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x" title="x" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为： 
+若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=\chi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi" title="\chi" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为： 
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=X$\sim$N(\mu,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X$\sim$N(\mu,\sigma^2)" title="X$\sim$N(\mu,\sigma^2)" /></a>
@@ -18,7 +18,7 @@
 </p>  
 
 高维形式:  
-若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=\chi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi" title="\chi" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为：
+若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{\chi}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{\chi}" title="\vec{\chi}" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{\mu}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{\mu}" title="\vec{\mu}" /></a>，协方差矩阵为 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{\Sigma}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{\Sigma}" title="\mathbf{\Sigma}" /></a> 的高斯分布，记为：
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\vec{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\vec{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" title="N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left | \vec{\Sigma} \right |^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" /></a>
 </p>  
