@@ -11,10 +11,13 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=X$\sim$N(\mu,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X$\sim$N(\mu,\sigma^2)" title="X$\sim$N(\mu,\sigma^2)" /></a>
 </p>  
 
-则其概率密度函数为：  
+则其一维概率密度函数为：  
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" title="f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" /></a>
 </p>  
+
+高维概率密度函数为:  
+
 
 从数学上可以证明，在自然界与生产中，一些现象受到许多相互独立的随机因素的影响，如果每个因素所产生的影响都很微小时，总的影响可以看作是服从正态分布的。
