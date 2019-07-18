@@ -11,12 +11,11 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=X$\sim$N(\mu,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X$\sim$N(\mu,\sigma^2)" title="X$\sim$N(\mu,\sigma^2)" /></a>
 </p>  
 
-则其一维概率密度函数为：  
+则其概率密度函数为：  
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=N(x|\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(x|\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" title="N(x|\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" /></a>
 </p>  
-其中，\mu为平均值，\sigma^2为方差。
 
 高维概率密度函数为:  
 <p align="center">
