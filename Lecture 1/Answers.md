@@ -23,6 +23,6 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=N(\vec{x}|\vec{\mu},\mathbf{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\mathbf{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\mathbf{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(\vec{x}|\vec{\mu},\mathbf{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\mathbf{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\mathbf{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" title="N(\vec{x}|\vec{\mu},\mathbf{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left | \mathbf{\Sigma} \right |^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\mathbf{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" /></a>
 </p>  
 
-具体推导过程请参阅\url{https://zhuanlan.zhihu.com/p/36522776}。  
+具体推导过程请参阅<https://zhuanlan.zhihu.com/p/36522776>。  
 
 从数学上可以证明，在自然界与生产中，一些现象受到许多相互独立的随机因素的影响，如果每个因素所产生的影响都很微小时，总的影响可以看作是服从正态分布的。
