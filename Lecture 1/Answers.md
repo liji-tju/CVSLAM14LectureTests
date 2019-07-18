@@ -5,7 +5,7 @@
 #### 2
 高斯分布，又称正态分布，其概念最早由德国的数学家和天文学家Abraham de Moivre于1733年首次提出的，但由于德国数学家Gauss率先将其应用于天文学研究，故正态分布又叫高斯分布。  
 一维形式：  
-若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=\chi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi" title="\chi" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为： 
+若随机变量<a href="https://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x" title="x" /></a>服从一个数学期望为<a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a>，方差为 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma^2" title="\sigma^2" /></a> 的高斯分布，记为： 
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=X$\sim$N(\mu,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X$\sim$N(\mu,\sigma^2)" title="X$\sim$N(\mu,\sigma^2)" /></a>
