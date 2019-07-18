@@ -19,7 +19,7 @@
 
 高维概率密度函数为:  
 <p align="center">
-<a href="https://www.codecogs.com/eqnedit.php?latex=N(\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" title="N(\mu,\sigma^2)=\frac{1}{\sigma\sqrt{2\pi}}e^-\frac{(x-\mu)^2}{2\sigma^2}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\vec{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left&space;|&space;\vec{\Sigma}&space;\right&space;|^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" title="N(\vec{x}|\vec{\mu},\vec{\Sigma})=\frac{1}{(2\pi)^{D/2}}\frac{1}{\left | \vec{\Sigma} \right |^{1/2}}exp\{-\frac{1}{2}(\vec{x}-\vec{\mu})^T\vec{\Sigma}^{-1}(\vec{x}-\vec{\mu})\}" /></a>
 </p>  
 
 从数学上可以证明，在自然界与生产中，一些现象受到许多相互独立的随机因素的影响，如果每个因素所产生的影响都很微小时，总的影响可以看作是服从正态分布的。
