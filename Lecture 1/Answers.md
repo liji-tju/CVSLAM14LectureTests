@@ -73,4 +73,4 @@ Linux是一套免费使用和自由传播的类Unix操作系统，是一个基�
 
 #### 7
 
-
+![text](https://www.runoob.com/wp-content/uploads/2014/06/003vPl7Rty6E8kZRlAEdc690.jpg)
