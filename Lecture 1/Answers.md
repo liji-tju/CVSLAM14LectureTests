@@ -1,4 +1,5 @@
 #### 1
+利用系数矩阵**A**与向量<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{b}" title="\vec{b}" /></a>组成增广矩阵<a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;[&space;\mathbf{A},\vec{b}&space;\right&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;[&space;\mathbf{A},\vec{b}&space;\right&space;]" title="\left [ \mathbf{A},\vec{b} \right ]" /></a>,再将其划为简化行阶梯形（rref），即可得到线性方程<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{A}\vec{x}=\vec{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{A}\vec{x}=\vec{b}" title="\mathbf{A}\vec{x}=\vec{b}" /></a>的解。  
 设**A**为*m*×*n*矩阵，当b=0时，线性方程**A***x*=*0*有非零解的充要条件是系数矩阵**A**的秩rank(**A**)<n。  
 当b≠0时，线性方程**A***x*=*b*解存在的充要条件是，系数矩阵的秩与增广矩阵的秩相等，即rank(**A**)=rank(**A**,*b*)。
 
