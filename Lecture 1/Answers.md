@@ -36,7 +36,7 @@ C++ 在 C 语言的基础上增加了面向对象的编程，C++ 支持面向对
 
 类定义是以关键字 class 开头，后跟类的名称。类的主体包含在一对花括号中。类定义后必须跟着一个分号或一个声明列表。例如，我们使用关键字 class 定义 Box 数据类型，如下所示：
 
-'''c++
+```c++
 class Box
 {
    public:
@@ -44,6 +44,6 @@ class Box
    double breadth;  // Breadth of a box
    double height;   // Height of a box
 };
-'''
+```
 关键字 public 确定了类成员的访问属性为公共的。在类对象作用域内，公共成员在类的外部是可访问的。您也可以指定类的成员为 private或 protected。
 
