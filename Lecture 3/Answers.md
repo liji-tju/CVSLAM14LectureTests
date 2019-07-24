@@ -16,6 +16,6 @@
 不难发现<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R^T&space;=&space;R^{-1}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R^T&space;=&space;R^{-1}}" title="\mathbf{R^T = R^{-1}}" /></a>，且<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{RR^{-1}=I}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{RR^{-1}=I}" title="\mathbf{RR^{-1}=I}" /></a>，所以命题得证。
 
 #### 2
-通过罗德里格斯变换(Rodrigues' rotation formula)可以实现由旋转向量到旋转矩阵的转换，其转换公式为：
+通过罗德里格斯变换(Rodrigues' rotation formula)可以实现由旋转向量到旋转矩阵的转换。设有一个旋转轴为<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{k}" title="\vec{k}" /></a>，角度为\theta的旋转，显然其对应旋转向量为<a href="https://www.codecogs.com/eqnedit.php?latex=\theta\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\vec{k}" title="\theta\vec{k}" /></a>，其转换公式为：
 <p align="center">
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{kk}^T&plus;sin\theta\mathbf{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{kk}^T&plus;sin\theta\mathbf{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\mathbf{kk}^T+sin\theta\mathbf{k}^\wedge" /></a></p> 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\vec{k}\vec{k}^T+sin\theta\vec{k}^\wedge" /></a></p> 
