@@ -19,5 +19,5 @@
 通过罗德里格斯变换(Rodrigues' rotation formula)可以实现由旋转向量到旋转矩阵的转换。设有一个旋转轴为<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{k}" title="\vec{k}" /></a>，角度为<a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a>的旋转，显然其对应旋转向量为<a href="https://www.codecogs.com/eqnedit.php?latex=\theta\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\vec{k}" title="\theta\vec{k}" /></a>，其转换公式为：
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\vec{k}\vec{k}^T+sin\theta\vec{k}^\wedge" /></a></p> 
-<p align="center">
-![image](https://baike.baidu.com/pic/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%A0%BC%E6%97%8B%E8%BD%AC%E5%85%AC%E5%BC%8F/18878562/0/eaf81a4c510fd9f9d86c59bd232dd42a2934a4ee?fr=lemma&ct=single)</p> 
+
+![image](https://baike.baidu.com/pic/%E7%BD%97%E5%BE%B7%E9%87%8C%E6%A0%BC%E6%97%8B%E8%BD%AC%E5%85%AC%E5%BC%8F/18878562/0/eaf81a4c510fd9f9d86c59bd232dd42a2934a4ee?fr=lemma&ct=single)
