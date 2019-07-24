@@ -20,4 +20,4 @@
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\vec{k}\vec{k}^T+sin\theta\vec{k}^\wedge" /></a></p> 
 
-![image]<https://pic2.zhimg.com/80/v2-c7cc6168f156c560e9902f7fe25e34c1_hd.jpg>
+![image](https://pic2.zhimg.com/80/v2-c7cc6168f156c560e9902f7fe25e34c1_hd.jpg)
