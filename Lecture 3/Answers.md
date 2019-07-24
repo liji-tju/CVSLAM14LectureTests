@@ -18,4 +18,4 @@
 #### 2
 通过罗德里格斯变换(Rodrigues' rotation formula)可以实现由旋转向量到旋转矩阵的转换，其转换公式为：
 <p align="center">
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{nn}^T&plus;sin\theta\mathbf{n}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{nn}^T&plus;sin\theta\mathbf{n}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\mathbf{nn}^T+sin\theta\mathbf{n}^\wedge" /></a></p> 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{kk}^T&plus;sin\theta\mathbf{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\mathbf{kk}^T&plus;sin\theta\mathbf{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\mathbf{kk}^T+sin\theta\mathbf{k}^\wedge" /></a></p> 
