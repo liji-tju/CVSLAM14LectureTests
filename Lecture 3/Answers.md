@@ -22,3 +22,4 @@
 
 <div align=center><img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rodrigues-formula.svg/300px-Rodrigues-formula.svg.png"/></div>
 
+如上图所示，向量<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v}" title="\vec{v}" /></a>绕旋转轴<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{k}" title="\vec{k}" /></a>旋转<a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a>角度得到结果<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{rot}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{rot}}" title="\vec{v_{rot}}" /></a>。
