@@ -20,4 +20,4 @@
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}=cos\theta\mathbf{I}&plus;(1-cos\theta)\vec{k}\vec{k}^T&plus;sin\theta\vec{k}^\wedge" title="\mathbf{R}=cos\theta\mathbf{I}+(1-cos\theta)\vec{k}\vec{k}^T+sin\theta\vec{k}^\wedge" /></a></p> 
 <p align="center">
-![image](https://img-blog.csdn.net/20171229201819854?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcTU4Mzk1NjkzMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)</p> 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rodrigues-formula.svg/1200px-Rodrigues-formula.svg.png)</p> 
