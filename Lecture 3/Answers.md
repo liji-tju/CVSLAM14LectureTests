@@ -37,3 +37,8 @@
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{||}}_{rot}=\vec{v_{||}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{||}}_{rot}=\vec{v_{||}}" title="\vec{v_{||}}_{rot}=\vec{v_{||}}" /></a></p> 
+
+根据以上分析，可知：
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{rot}}=\vec{v_\perp}_{rot}&plus;\vec{v_{||}}_{rot}\\&space;=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}&plus;\vec{v_{||}}\\&space;=cos\theta(\vec{v}-\vec{v_{||}})&plus;sin\theta\vec{k}\times\vec{v}&plus;\vec{v_{||}}\\&space;=cos\theta\vec{v}&plus;(1-cos\theta)\vec{v_{||}}&plus;sin\theta\vec{k}\times\vec{v}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{rot}}=\vec{v_\perp}_{rot}&plus;\vec{v_{||}}_{rot}\\&space;=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}&plus;\vec{v_{||}}\\&space;=cos\theta(\vec{v}-\vec{v_{||}})&plus;sin\theta\vec{k}\times\vec{v}&plus;\vec{v_{||}}\\&space;=cos\theta\vec{v}&plus;(1-cos\theta)\vec{v_{||}}&plus;sin\theta\vec{k}\times\vec{v}" title="\vec{v_{rot}}=\vec{v_\perp}_{rot}+\vec{v_{||}}_{rot}\\ =cos\theta\vec{v_\perp}+sin\theta\vec{k}\times\vec{v}+\vec{v_{||}}\\ =cos\theta(\vec{v}-\vec{v_{||}})+sin\theta\vec{k}\times\vec{v}+\vec{v_{||}}\\ =cos\theta\vec{v}+(1-cos\theta)\vec{v_{||}}+sin\theta\vec{k}\times\vec{v}" /></a></p> 
