@@ -36,7 +36,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}" title="\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}+sin\theta\vec{k}\times\vec{v}" /></a></p> 
 
 <p align="center">
-<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{||}}_{rot}=\vec{v_{||}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{||}}_{rot}=\vec{v_{||}}" title="\vec{v_{||}}_{rot}=\vec{v_{||}}" /></a></p> 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{||}}=(\vec{v}\cdot\vec{k})\vec{k}=\vec{k}\vec{k}^T\vec{v}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{||}}=(\vec{v}\cdot\vec{k})\vec{k}=\vec{k}\vec{k}^T\vec{v}" title="\vec{v_{||}}=(\vec{v}\cdot\vec{k})\vec{k}=\vec{k}\vec{k}^T\vec{v}" /></a></p> 
 
 根据以上分析，可知：
 
