@@ -33,4 +33,7 @@
 垂直分量与平行分量绕<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{k}" title="\vec{k}" /></a>转过<a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a>角度后得到:  
 
 <p align="center">
-<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_\perp}=\vec{v}-\vec{v_{||}}=-\vec{k}\times&space;(\vec{k}\times&space;\vec{v})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_\perp}=\vec{v}-\vec{v_{||}}=-\vec{k}\times&space;(\vec{k}\times&space;\vec{v})" title="\vec{v_\perp}=\vec{v}-\vec{v_{||}}=-\vec{k}\times (\vec{k}\times \vec{v})" /></a></p> 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}&plus;sin\theta\vec{k}\times\vec{v}" title="\vec{v_\perp}_{rot}=cos\theta\vec{v_\perp}+sin\theta\vec{k}\times\vec{v}" /></a></p> 
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{v_{||}}_{rot}=\vec{v_{||}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{v_{||}}_{rot}=\vec{v_{||}}" title="\vec{v_{||}}_{rot}=\vec{v_{||}}" /></a></p> 
