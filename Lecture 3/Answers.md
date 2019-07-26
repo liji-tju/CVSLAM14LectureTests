@@ -55,3 +55,8 @@
 命题得证。
 
 #### 3
+设三维空间中有一点，用虚四元数可表示为<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{p}=[0,x,y,z]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{p}=[0,x,y,z]" title="\vec{p}=[0,x,y,z]" /></a>，该点绕转轴<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{n}" title="\vec{n}" /></a>旋转<a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a>角度，这个旋转可以用四元数形式表示为<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{q}=[cos\frac{\theta}{2},\vec{n}sin\frac{\theta}{2}]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{q}=[cos\frac{\theta}{2},\vec{n}sin\frac{\theta}{2}]" title="\vec{q}=[cos\frac{\theta}{2},\vec{n}sin\frac{\theta}{2}]" /></a>，旋转后的点<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{p'}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{p'}" title="\vec{p'}" /></a>可以表示为：
+
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" title="\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" /></a></p> 
