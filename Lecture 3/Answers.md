@@ -60,3 +60,9 @@
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" title="\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" /></a></p> 
+
+注意，上式中的运算均为四元数运算，根据书中p53、p54的四元数运算规律，可得：
+
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" title="\vec{p'}=\vec{q}\vec{p}\vec{q}^{-1}" /></a></p> 
