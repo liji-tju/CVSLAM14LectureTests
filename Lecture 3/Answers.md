@@ -77,9 +77,9 @@
 
 如下表所示，表中表示从左侧第一列到首行的变换公式。
 
-|              | 旋转矩阵(<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}" title="\mathbf{R}" /></a>) | 轴角(<a href="https://www.codecogs.com/eqnedit.php?latex=\theta\vec{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\vec{n}" title="\theta\vec{n}" /></a>) | 欧拉角 | 四元数 |
+|              | 旋转矩阵(<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}" title="\mathbf{R}" /></a>) | 轴角(<a href="https://www.codecogs.com/eqnedit.php?latex=\theta\vec{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\vec{n}" title="\theta\vec{n}" /></a>) | 欧拉角(<a href="https://www.codecogs.com/eqnedit.php?latex=[r,p,y]^T" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[r,p,y]^T" title="[r,p,y]^T" /></a>) | 四元数(<a href="https://www.codecogs.com/eqnedit.php?latex=[s,\vec{v}]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[s,\vec{v}]" title="[s,\vec{v}]" /></a>) |
 |:------------:|:-------:|:---:|:-----:|:------:|
-| __旋转矩阵__ |     \    |     |       |        |
+| __旋转矩阵(<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R}" title="\mathbf{R}" /></a>)__ |     \    |     |       |        |
 | __轴角(<a href="https://www.codecogs.com/eqnedit.php?latex=\theta\vec{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta\vec{n}" title="\theta\vec{n}" /></a>)__     |          |  \   |       |        |   
-| __欧拉角__   |         |     |    \   |        |
-| __四元数__   |         |     |       |     \   |
+| __欧拉角(<a href="https://www.codecogs.com/eqnedit.php?latex=[r,p,y]^T" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[r,p,y]^T" title="[r,p,y]^T" /></a>)__   |         |     |    \   |        |
+| __四元数(<a href="https://www.codecogs.com/eqnedit.php?latex=[s,\vec{v}]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[s,\vec{v}]" title="[s,\vec{v}]" /></a>)__   |         |     |       |     \   |
