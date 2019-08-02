@@ -6,4 +6,11 @@
 * 3.存在幺元(identity element)：<a href="https://www.codecogs.com/eqnedit.php?latex=\exists&space;a_0\in&space;A,\&space;s.t.\&space;\forall&space;a\in&space;A,&space;a_0*a=a*a_0=a" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\exists&space;a_0\in&space;A,\&space;s.t.\&space;\forall&space;a\in&space;A,&space;a_0*a=a*a_0=a" title="\exists a_0\in A,\ s.t.\ \forall a\in A, a_0*a=a*a_0=a" /></a>
 * 4.可逆：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall&space;a\in&space;A,\&space;\exists&space;a^{-1}\in&space;A,\&space;s.t.\&space;a*a^{-1}=a_0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall&space;a\in&space;A,\&space;\exists&space;a^{-1}\in&space;A,\&space;s.t.\&space;a*a^{-1}=a_0" title="\forall a\in A,\ \exists a^{-1}\in A,\ s.t.\ a*a^{-1}=a_0" /></a>
 
-SO(3):特殊正交群(Special Orthogonal Group)
+1.特殊正交群(Special Orthogonal Group)SO(3):
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=SO(3)=\{\mathbf{R}\in&space;\mathbb{R}^{3\times3}|\mathbf{RR}^T=\mathbf{I},det(\mathbf{R})=1\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?SO(3)=\{\mathbf{R}\in&space;\mathbb{R}^{3\times3}|\mathbf{RR}^T=\mathbf{I},det(\mathbf{R})=1\}" title="SO(3)=\{\mathbf{R}\in \mathbb{R}^{3\times3}|\mathbf{RR}^T=\mathbf{I},det(\mathbf{R})=1\}" /></a>
+</p>  
+
+下面验证其是否与矩阵乘法满足群成立的四个条件：
+* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" title="\mathbf{R_1R_2}\in \mathbb{R}^{3\times3}" /></a>
