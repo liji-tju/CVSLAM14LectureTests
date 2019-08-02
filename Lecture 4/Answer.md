@@ -20,3 +20,17 @@
 
 所以，命题得证。
 
+
+1.特殊欧式群(Special Euclidean Group)SE(3):
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=SE(3)=\left&space;\{&space;\mathbf{R}=\begin{bmatrix}&space;\mathbf{R}&space;&\vec{t}&space;\\&space;\vec{0}^T&space;&&space;1&space;\end{bmatrix}\in\mathbb{R}^{4\times4}|\mathbf{R}\in&space;SO(3),\vec{t}\in&space;\mathbb{R}^3&space;\right&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?SE(3)=\left&space;\{&space;\mathbf{R}=\begin{bmatrix}&space;\mathbf{R}&space;&\vec{t}&space;\\&space;\vec{0}^T&space;&&space;1&space;\end{bmatrix}\in\mathbb{R}^{4\times4}|\mathbf{R}\in&space;SO(3),\vec{t}\in&space;\mathbb{R}^3&space;\right&space;\}" title="SE(3)=\left \{ \mathbf{R}=\begin{bmatrix} \mathbf{R} &\vec{t} \\ \vec{0}^T & 1 \end{bmatrix}\in\mathbb{R}^{4\times4}|\mathbf{R}\in SO(3),\vec{t}\in \mathbb{R}^3 \right \}" /></a>
+</p> 
+
+下面验证其是否与矩阵乘法满足群成立的四个条件：
+* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" title="\mathbf{R_1R_2}\in \mathbb{R}^{3\times3}" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" title="\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=det(\mathbf{R_1R_2})=det(\mathbf{R_1})det(\mathbf{R_2})=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?det(\mathbf{R_1R_2})=det(\mathbf{R_1})det(\mathbf{R_2})=1" title="det(\mathbf{R_1R_2})=det(\mathbf{R_1})det(\mathbf{R_2})=1" /></a>。所以可以看出<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}&space;\in&space;SO(3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}&space;\in&space;SO(3)" title="\mathbf{R_1R_2} \in SO(3)" /></a>，即满足封闭性。
+* 2.结合率：我们知道矩阵乘法是满足结合律的，所以得证。
+* 3.存在幺元(identity element)：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{RI}=\mathbf{IR}=\mathbf{R}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{RI}=\mathbf{IR}=\mathbf{R}" title="\mathbf{RI}=\mathbf{IR}=\mathbf{R}" /></a>, 幺元为单位矩阵**I**。
+* 4可逆：因为<a href="https://www.codecogs.com/eqnedit.php?latex=det(\mathbf{R})\neq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?det(\mathbf{R})\neq&space;0" title="det(\mathbf{R})\neq 0" /></a>，所以**R**可逆。
+
+所以，命题得证。
