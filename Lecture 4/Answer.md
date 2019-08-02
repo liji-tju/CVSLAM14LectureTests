@@ -13,4 +13,4 @@
 </p>  
 
 下面验证其是否与矩阵乘法满足群成立的四个条件：
-* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" title="\mathbf{R_1R_2}\in \mathbb{R}^{3\times3}" /></a>
+* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}\in&space;\mathbb{R}^{3\times3}" title="\mathbf{R_1R_2}\in \mathbb{R}^{3\times3}" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" title="\mathbf{R_1R_2}(\mathbf{R_1R_2})^T=\mathbf{R_1R_2}\mathbf{R_2}^T\mathbf{R_1}^T=\mathbf{I}" /></a>
