@@ -48,3 +48,12 @@
 * 4可逆：因为<a href="https://www.codecogs.com/eqnedit.php?latex=det(\mathbf{S})=det(s\mathbf{R})\neq0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?det(\mathbf{S})=det(s\mathbf{R})\neq0" title="det(\mathbf{S})=det(s\mathbf{R})\neq0" /></a>，所以**S**可逆。
 
 所以，命题得证。
+
+#### 2
+
+李代数由一个集合<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{V}" title="\mathbb{V}" /></a>，一个数域<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{F}" title="\mathbb{F}" /></a>和一个二元计算[,]组成。如果它们满足以下几条性质，则称(<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{V}" title="\mathbb{V}" /></a>,<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{F}" title="\mathbb{F}" /></a>,[,])为一个李代数，记作<a href="https://www.codecogs.com/eqnedit.php?latex=\mathfrak{g}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathfrak{g}" title="\mathfrak{g}" /></a>。
+
+* 1.封闭性：
+* 2.双线性：
+* 3.自反性：
+* 4.雅可比等价：
