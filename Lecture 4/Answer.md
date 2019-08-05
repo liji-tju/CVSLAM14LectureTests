@@ -53,7 +53,9 @@
 
 李代数由一个集合<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{V}" title="\mathbb{V}" /></a>，一个数域<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{F}" title="\mathbb{F}" /></a>和一个二元计算[,]组成。如果它们满足以下几条性质，则称(<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{V}" title="\mathbb{V}" /></a>,<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{F}" title="\mathbb{F}" /></a>,[,])为一个李代数，记作<a href="https://www.codecogs.com/eqnedit.php?latex=\mathfrak{g}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathfrak{g}" title="\mathfrak{g}" /></a>。
 
-* 1.封闭性：
-* 2.双线性：
+* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall&space;\mathbf{X,Y}\in\mathbb{V},[\mathbf{X,Y}]\in\mathbb{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall&space;\mathbf{X,Y}\in\mathbb{V},[\mathbf{X,Y}]\in\mathbb{V}" title="\forall \mathbf{X,Y}\in\mathbb{V},[\mathbf{X,Y}]\in\mathbb{V}" /></a>
+* 2.双线性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall&space;\mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall&space;\mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" title="\forall \mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" /></a>，有：
+
+
 * 3.自反性：
 * 4.雅可比等价：
