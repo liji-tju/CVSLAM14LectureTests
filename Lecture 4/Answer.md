@@ -61,3 +61,8 @@
 
 * 3.自反性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" title="\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" /></a>
 * 4.雅可比等价：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall\mathbf{X,Y,Z}\in\mathbb{V},\mathbf{[X,[Y,Z]]&plus;[Z,[X,Y]]&plus;[Y,[Z,X]]}=\mathbf{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall\mathbf{X,Y,Z}\in\mathbb{V},\mathbf{[X,[Y,Z]]&plus;[Z,[X,Y]]&plus;[Y,[Z,X]]}=\mathbf{0}" title="\forall\mathbf{X,Y,Z}\in\mathbb{V},\mathbf{[X,[Y,Z]]+[Z,[X,Y]]+[Y,[Z,X]]}=\mathbf{0}" /></a>
+
+下面验证<a href="https://www.codecogs.com/eqnedit.php?latex=(\mathbb{R}^3,\mathbb{R},\times)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\mathbb{R}^3,\mathbb{R},\times)" title="(\mathbb{R}^3,\mathbb{R},\times)" /></a>是否满足上述四条件：
+
+* 1.封闭性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall\vec{a},\vec{b}\in\mathbb{R}^3,\vec{a}\times\vec{b}\in\mathbb{R}^3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall\vec{a},\vec{b}\in\mathbb{R}^3,\vec{a}\times\vec{b}\in\mathbb{R}^3" title="\forall\vec{a},\vec{b}\in\mathbb{R}^3,\vec{a}\times\vec{b}\in\mathbb{R}^3" /></a>，即满足封闭性。
+* 2.双线性：
