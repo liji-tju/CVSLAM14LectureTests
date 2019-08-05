@@ -72,3 +72,21 @@
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{x}\times(\vec{y}\times\vec{z})&plus;\vec{z}\times(\vec{x}\times\vec{y})&plus;\vec{y}\times(\vec{z}\times\vec{x})\\&space;=\vec{y}(\vec{x}\cdot\vec{z})-\vec{z}(\vec{x}\cdot\vec{y})&plus;\vec{x}(\vec{z}\cdot\vec{y})-\vec{y}(\vec{z}\cdot\vec{x})&plus;\vec{z}(\vec{y}\cdot\vec{x})-\vec{x}(\vec{y}\cdot\vec{z})=\vec{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{x}\times(\vec{y}\times\vec{z})&plus;\vec{z}\times(\vec{x}\times\vec{y})&plus;\vec{y}\times(\vec{z}\times\vec{x})\\&space;=\vec{y}(\vec{x}\cdot\vec{z})-\vec{z}(\vec{x}\cdot\vec{y})&plus;\vec{x}(\vec{z}\cdot\vec{y})-\vec{y}(\vec{z}\cdot\vec{x})&plus;\vec{z}(\vec{y}\cdot\vec{x})-\vec{x}(\vec{y}\cdot\vec{z})=\vec{0}" title="\vec{x}\times(\vec{y}\times\vec{z})+\vec{z}\times(\vec{x}\times\vec{y})+\vec{y}\times(\vec{z}\times\vec{x})\\ =\vec{y}(\vec{x}\cdot\vec{z})-\vec{z}(\vec{x}\cdot\vec{y})+\vec{x}(\vec{z}\cdot\vec{y})-\vec{y}(\vec{z}\cdot\vec{x})+\vec{z}(\vec{y}\cdot\vec{x})-\vec{x}(\vec{y}\cdot\vec{z})=\vec{0}" /></a>
 </p>  
+即：满足雅可比等价。
+
+所以，<a href="https://www.codecogs.com/eqnedit.php?latex=(\mathbb{R}^3,\mathbb{R},\times)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\mathbb{R}^3,\mathbb{R},\times)" title="(\mathbb{R}^3,\mathbb{R},\times)" /></a>构成李代数。
+
+#### 3
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathfrak{so}(3)=\left&space;\{&space;\vec{\phi}\in\mathbb{R}^3,\mathbf{\Phi}=\vec{\phi}^\wedge\in\mathbb{R}^{3\times3}&space;\right&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathfrak{so}(3)=\left&space;\{&space;\vec{\phi}\in\mathbb{R}^3,\mathbf{\Phi}=\vec{\phi}^\wedge\in\mathbb{R}^{3\times3}&space;\right&space;\}" title="\mathfrak{so}(3)=\left \{ \vec{\phi}\in\mathbb{R}^3,\mathbf{\Phi}=\vec{\phi}^\wedge\in\mathbb{R}^{3\times3} \right \}" /></a>
+</p>  
+
+两个向量<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{\phi_1},\vec{\phi_2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{\phi_1},\vec{\phi_2}" title="\vec{\phi_1},\vec{\phi_2}" /></a>的李括号定义为：
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=[\vec{\phi_1},\vec{\phi_2}]=(\mathbf{\Phi}_1\mathbf{\Phi}_2-\mathbf{\Phi}_2\mathbf{\Phi}_1)^\vee" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[\vec{\phi_1},\vec{\phi_2}]=(\mathbf{\Phi}_1\mathbf{\Phi}_2-\mathbf{\Phi}_2\mathbf{\Phi}_1)^\vee" title="[\vec{\phi_1},\vec{\phi_2}]=(\mathbf{\Phi}_1\mathbf{\Phi}_2-\mathbf{\Phi}_2\mathbf{\Phi}_1)^\vee" /></a>
+</p>  
+
+下面验证其是否满足李代数成立的四个条件：
+* 1.封闭性：
