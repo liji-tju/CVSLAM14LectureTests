@@ -45,6 +45,6 @@
 * 1.封闭性：显然<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{S_1}\mathbf{S_2}\in\mathbb{R}^{4\times4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{S_1}\mathbf{S_2}\in\mathbb{R}^{4\times4}" title="\mathbf{S_1}\mathbf{S_2}\in\mathbb{R}^{4\times4}" /></a>，即满足封闭性。
 * 2.结合率：我们知道矩阵乘法是满足结合律的，所以得证。
 * 3.存在幺元(identity element)：<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{S}\mathbf{I}=\mathbf{I}\mathbf{S}=\mathbf{S}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{S}\mathbf{I}=\mathbf{I}\mathbf{S}=\mathbf{S}" title="\mathbf{S}\mathbf{I}=\mathbf{I}\mathbf{S}=\mathbf{S}" /></a>, 幺元为单位矩阵**I**。
-* 4可逆：因为<a href="https://www.codecogs.com/eqnedit.php?latex=det(\mathbf{T})\neq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?det(\mathbf{T})\neq&space;0" title="det(\mathbf{T})\neq 0" /></a>，所以**T**可逆。
+* 4可逆：因为<a href="https://www.codecogs.com/eqnedit.php?latex=det(\mathbf{S})=det(s\mathbf{R})\neq0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?det(\mathbf{S})=det(s\mathbf{R})\neq0" title="det(\mathbf{S})=det(s\mathbf{R})\neq0" /></a>，所以**S**可逆。
 
 所以，命题得证。
