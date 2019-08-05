@@ -57,6 +57,7 @@
 * 2.双线性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall&space;\mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall&space;\mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" title="\forall \mathbf{X,Y,Z}\in\mathbb{V},a,b\in\mathbb{F}" /></a>，有：
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=[a\mathbf{X}&plus;b\mathbf{Y},\mathbf{Z}]=a[\mathbf{X,Z}]&plus;b[\mathbf{Y,Z}],\&space;[\mathbf{Z},a\mathbf{X}&plus;b\mathbf{Y}]=a[\mathbf{Z,X}]&plus;b[\mathbf{Z,Y}]." target="_blank"><img src="https://latex.codecogs.com/gif.latex?[a\mathbf{X}&plus;b\mathbf{Y},\mathbf{Z}]=a[\mathbf{X,Z}]&plus;b[\mathbf{Y,Z}],\&space;[\mathbf{Z},a\mathbf{X}&plus;b\mathbf{Y}]=a[\mathbf{Z,X}]&plus;b[\mathbf{Z,Y}]." title="[a\mathbf{X}+b\mathbf{Y},\mathbf{Z}]=a[\mathbf{X,Z}]+b[\mathbf{Y,Z}],\ [\mathbf{Z},a\mathbf{X}+b\mathbf{Y}]=a[\mathbf{Z,X}]+b[\mathbf{Z,Y}]." /></a>
-</p>
-* 3.自反性：
+</p>  
+
+* 3.自反性：<a href="https://www.codecogs.com/eqnedit.php?latex=\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" title="\forall\mathbf{X}\in\mathbb{V},[\mathbf{X,X}]=\mathbf{0}" /></a>
 * 4.雅可比等价：
