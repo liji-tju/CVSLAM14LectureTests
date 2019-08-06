@@ -109,4 +109,15 @@
 </p>
 由<a href="https://www.codecogs.com/eqnedit.php?latex=^\vee" target="_blank"><img src="https://latex.codecogs.com/gif.latex?^\vee" title="^\vee" /></a>运算定义易知其满足分配律，即<a href="https://www.codecogs.com/eqnedit.php?latex=(\vec{a}^\wedge&plus;\vec{b}^\wedge)^\vee=\vec{a}&plus;\vec{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\vec{a}^\wedge&plus;\vec{b}^\wedge)^\vee=\vec{a}&plus;\vec{b}" title="(\vec{a}^\wedge+\vec{b}^\wedge)^\vee=\vec{a}+\vec{b}" /></a>,所以上式经化简后等于<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{0}" title="\vec{0}" /></a>，即满足雅可比等价。
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathfrak{se}(3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathfrak{se}(3)" title="\mathfrak{se}(3)" /></a>满足李代数条件的证法类似，这里略去。
 
+#### 4
+
+* 式4.20：
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}^\wedge\vec{a}^\wedge=\vec{a}\vec{a}^T-\mathbf{I}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}^\wedge\vec{a}^\wedge=\vec{a}\vec{a}^T-\mathbf{I}" title="\vec{a}^\wedge\vec{a}^\wedge=\vec{a}\vec{a}^T-\mathbf{I}" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}^\wedge\vec{a}^\wedge=\begin{bmatrix}&space;0&space;&&space;-a_3&space;&&space;a_2\\&space;a_3&space;&&space;0&space;&&space;-a_1\\&space;-a_2&space;&&space;a_1&space;&&space;0&space;\end{bmatrix}&space;\begin{bmatrix}&space;0&space;&&space;-a_3&space;&&space;a_2\\&space;a_3&space;&&space;0&space;&&space;-a_1\\&space;-a_2&space;&&space;a_1&space;&&space;0&space;\end{bmatrix}\\&space;=\begin{bmatrix}&space;-a_2^2-a_3^2&space;&&space;a_1a_2&space;&&space;a_1a_3\\&space;a_1a_2&space;&&space;-a_1^2-a_3^2&space;&&space;a_2a_3\\&space;a_1a_3&space;&&space;a_2a_3&space;&&space;-a_1^2-a_2^2&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}^\wedge\vec{a}^\wedge=\begin{bmatrix}&space;0&space;&&space;-a_3&space;&&space;a_2\\&space;a_3&space;&&space;0&space;&&space;-a_1\\&space;-a_2&space;&&space;a_1&space;&&space;0&space;\end{bmatrix}&space;\begin{bmatrix}&space;0&space;&&space;-a_3&space;&&space;a_2\\&space;a_3&space;&&space;0&space;&&space;-a_1\\&space;-a_2&space;&&space;a_1&space;&&space;0&space;\end{bmatrix}\\&space;=\begin{bmatrix}&space;-a_2^2-a_3^2&space;&&space;a_1a_2&space;&&space;a_1a_3\\&space;a_1a_2&space;&&space;-a_1^2-a_3^2&space;&&space;a_2a_3\\&space;a_1a_3&space;&&space;a_2a_3&space;&&space;-a_1^2-a_2^2&space;\end{bmatrix}" title="\vec{a}^\wedge\vec{a}^\wedge=\begin{bmatrix} 0 & -a_3 & a_2\\ a_3 & 0 & -a_1\\ -a_2 & a_1 & 0 \end{bmatrix} \begin{bmatrix} 0 & -a_3 & a_2\\ a_3 & 0 & -a_1\\ -a_2 & a_1 & 0 \end{bmatrix}\\ =\begin{bmatrix} -a_2^2-a_3^2 & a_1a_2 & a_1a_3\\ a_1a_2 & -a_1^2-a_3^2 & a_2a_3\\ a_1a_3 & a_2a_3 & -a_1^2-a_2^2 \end{bmatrix}" /></a>
+</p>
