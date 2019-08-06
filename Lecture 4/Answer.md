@@ -139,3 +139,13 @@
 命题得证。
 
 #### 5
+不会
+
+#### 6
+不会
+
+#### 7
+
+在SO(3)上的右扰动为：
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial(\mathbf{R}\vec{p})}{\partial\vec{\varphi}}=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)exp(\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\&space;\approx&space;\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)(\mathbf{I}&plus;\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\&space;=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)\vec{\varphi}^\wedge\vec{p}}{\vec{\varphi}}&space;=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{-\mathbf{R}\vec{p}^\wedge\vec{\varphi}}{\vec{\varphi}}=-\mathbf{R}\vec{p}^\wedge" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial(\mathbf{R}\vec{p})}{\partial\vec{\varphi}}=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)exp(\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\&space;\approx&space;\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)(\mathbf{I}&plus;\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\&space;=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{exp(\vec{\phi}^\wedge)\vec{\varphi}^\wedge\vec{p}}{\vec{\varphi}}&space;=\lim_{\vec{\varphi}\rightarrow&space;\vec{0}}\frac{-\mathbf{R}\vec{p}^\wedge\vec{\varphi}}{\vec{\varphi}}=-\mathbf{R}\vec{p}^\wedge" title="\frac{\partial(\mathbf{R}\vec{p})}{\partial\vec{\varphi}}=\lim_{\vec{\varphi}\rightarrow \vec{0}}\frac{exp(\vec{\phi}^\wedge)exp(\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\ \approx \lim_{\vec{\varphi}\rightarrow \vec{0}}\frac{exp(\vec{\phi}^\wedge)(\mathbf{I}+\vec{\varphi}^\wedge)\vec{p}-exp(\vec{\phi}^\wedge)\vec{p}}{\vec{\varphi}}\\ =\lim_{\vec{\varphi}\rightarrow \vec{0}}\frac{exp(\vec{\phi}^\wedge)\vec{\varphi}^\wedge\vec{p}}{\vec{\varphi}} =\lim_{\vec{\varphi}\rightarrow \vec{0}}\frac{-\mathbf{R}\vec{p}^\wedge\vec{\varphi}}{\vec{\varphi}}=-\mathbf{R}\vec{p}^\wedge" /></a>
