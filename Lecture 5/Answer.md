@@ -6,3 +6,5 @@
 其中：<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha" title="\alpha" /></a>为像素在u轴上的缩放系数，f为物理成像平面到小孔的距离(焦距)，<a href="https://www.codecogs.com/eqnedit.php?latex=\beta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\beta" title="\beta" /></a>为像素在v轴上的缩放系数，像素坐标系的坐标原点通常在图像的左上角，<a href="https://www.codecogs.com/eqnedit.php?latex=c_x,c_y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?c_x,c_y" title="c_x,c_y" /></a>为成像平面原点到像素坐标系原点的平移。
 
 相机分辨率变为原来的两倍，即像素点密度提升为原来的两倍，所以<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha,\beta,c_x,c_y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha,\beta,c_x,c_y" title="\alpha,\beta,c_x,c_y" /></a>均变为原来的两倍
+
+####　３
