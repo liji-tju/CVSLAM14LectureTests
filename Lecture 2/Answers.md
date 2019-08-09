@@ -37,4 +37,4 @@ g++ -o test test.cpp
 #### 6
 会报错。
 
-undefined reference to `printHello()'
+undefined reference to 'printHello()'
