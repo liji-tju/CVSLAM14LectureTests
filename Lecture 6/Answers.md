@@ -1,0 +1,2 @@
+#### 1
+系数矩阵超定，即系数矩阵行数大于列数，即意味着线性方程的数量大于未知数的数量。对于这样的方程组，通常是不存在使得所有方程组都成立的解，但存在使得残差<a href="https://www.codecogs.com/eqnedit.php?latex=e=\left&space;\|&space;A\vec{x}-\vec{b}&space;\right&space;\|_{2}^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e=\left&space;\|&space;A\vec{x}-\vec{b}&space;\right&space;\|_{2}^{2}" title="e=\left \| A\vec{x}-\vec{b} \right \|_{2}^{2}" /></a>最小的解，即最小二乘解。
